@@ -2,3 +2,5 @@ This is the demo
 This line is added in a_feature1 branch
 This line is added in branch b_feature1
 after meging a_feature1
+This line is added in branch c_feature1
+
